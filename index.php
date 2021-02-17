@@ -1,7 +1,7 @@
 <?php
 	
-	echo "Olá mundo!";
+	echo "arquivo antigo!";
 
-	echo "Hello World!";
+	echo "456";
 
 ?>
