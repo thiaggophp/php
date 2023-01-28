@@ -4,7 +4,6 @@ include "exemplo1.php"; //trouce o exemplo1.php pra ca, se fosse em outra pasta 
 //para navegar em um diretorio antes use ../nomedapasta/nomedoarquivo
 
 $resultado = somar(18, 20);
-
 echo $resultado;
 
 /*include e require sao aparentemente iguais, mas existem diferencas:
