@@ -9,7 +9,7 @@ function teste() {
 }
 
 function teste2() {
-    $nome = "Joao";
+    $nome = "Joao"; //aqui      vale somente pra este escopo
     echo $nome . " Agora no teste 2";
 }
 
